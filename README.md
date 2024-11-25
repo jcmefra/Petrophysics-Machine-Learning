@@ -29,6 +29,16 @@ This repository contains:
 - **Documentation**: Detailed instructions on the methodology, setup, and findings.
 - **GitHub Pages Deployment**: A static page summarizing key project insights.
 
+## Results
+
+Successful prediction of NPHI well log:
+
+![image](https://github.com/user-attachments/assets/a89e723f-80ef-4792-842f-39e3078e2231)
+
+Successful K-means lithofacies clustering using PCA:
+
+![image](https://github.com/user-attachments/assets/8554e2dc-8bb4-4f34-be9e-9d7089aecb5f)
+
 ## Acknowledgments
 
 Data provided by the [National Petroleum Reserve-Alaska Data Archive](https://certmapper.cr.usgs.gov/data/apps/npra/#3862174-data-).
